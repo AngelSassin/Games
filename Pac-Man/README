@@ -1,0 +1,5 @@
+This is my simulation of Pac-Man. The purpose of the project was to make the game as similar, mechanically, to the actual game from the ghosts' individual AI to different level specifications. 
+
+The executable .jar file does not read the tile images well, so it is necessary to run the Start_Pacman.bat file instead. This will launch the game with the graphics.
+
+Enjoy! Updates will come later!

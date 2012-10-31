@@ -1,0 +1,7 @@
+This is my simulation of Tetris. This is one of my earliest projects and, coding-wise, is extremely terrible. It runs, but due to parallel 2D arrays, there are bugs that occur sometimes when a tetromino is placed. However, I find it to be quite fun! :)
+
+The game contains score, line counter, combo counter, a game timer, and more!
+
+The .jar file is executable. Just open it with java to play. Your computer has probably set it up such that you can just double-click it.
+
+Enjoy!
